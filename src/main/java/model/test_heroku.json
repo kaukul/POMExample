@@ -1,0 +1,66 @@
+{
+  "customer": {
+    "userId": "ma11_fullpay2_ivan@yopmail.com",
+    "cSSClientNumber": "1004192733",
+    "ecn": "4919911",
+    "legalName": {
+      "firstName": "Ivan",
+      "lastName": "Randolph"
+    },
+    "fcc_disclaimerMsg": "By checking a box and clicking \"\", you agree to be contacted on the phone number(s) you provided above by Farmers agents,Farmers entities or their other representatives. Such contact may include marketing calls or texts that may use anautomated telephone dialing system and/or an artificial or prerecorded voice. Your consent is not a condition of purchase. Revision Date: 04/06/2018",
+    "preferences": {
+      "phone": [
+        {
+          "phoneNumber": "683-745-8932",
+          "sourceSystem": "CSS",
+          "startDate": "",
+          "type": "Home Telephone",
+          "extension": "",
+          "isPreferredInd": "N",
+          "isCellPhoneInd": "",
+          "endDate": "",
+          "preferences": [
+            {
+              "sourceSystem": "CSS",
+              "name": "PEWC",
+              "reason": "",
+              "startDate": "2022-01-25 03:21:58.056",
+              "value": "ND",
+              "type": ""
+            }
+          ]
+        },
+        {
+          "phoneNumber": "434-232-2323",
+          "sourceSystem": "CSS",
+          "startDate": "",
+          "type": "Cellular",
+          "extension": "",
+          "isPreferredInd": "Y",
+          "isCellPhoneInd": "",
+          "endDate": "",
+          "preferences": [
+            {
+              "sourceSystem": "CSS",
+              "name": "PEWC",
+              "reason": "",
+              "startDate": "2022-01-25 03:21:58.056",
+              "value": "ND",
+              "type": ""
+            }
+          ]
+        }
+      ],
+      "email": [
+        {
+          "type": "Personal Email",
+          "sourceSystem": "CSS",
+          "emailId": "ma11_fullpay2_ivan@yopmail.com",
+          "isPreferredInd": "Y",
+          "startDate": "2022-01-25 03:21:58.056",
+          "endDate": ""
+        }
+      ]
+    }
+  }
+}

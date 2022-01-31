@@ -1,0 +1,10 @@
+model/ProductMapper.java
+ model.ProductMapper
+model/Product.java
+ model.Product
+rawSelenium.java
+ rawSelenium
+model/pom/pages/BasePage.java
+ model.pom.pages.BasePage
+model/pom/pages/ProductPage.java
+ model.pom.pages.ProductPage

@@ -1,0 +1,64 @@
+{
+  "customerConsent": {
+    "ecn": "4919911",
+    "phone": [
+      {
+        "phoneNumber": "683-745-8932",
+        "sourceSystem": "CSS",
+        "isPreferredInd": "N",
+        "startDate": "2022-01-25 11:16:28.829",
+        "type": "Home Telephone",
+        "preferences": [
+          {
+            "sourceSystem": "CSS",
+            "name": "PEWC",
+            "reason": "NA",
+            "startDate": "2022-01-25 11:21:58.056",
+            "value": "ND"
+          }
+        ]
+      },
+      {
+        "phoneNumber": "267-636-2837",
+        "sourceSystem": "CSS",
+        "isPreferredInd": "Y",
+        "startDate": "2022-01-25 11:16:28.829",
+        "type": "Business Telephone",
+        "preferences": [
+          {
+            "sourceSystem": "CSS",
+            "name": "PEWC",
+            "reason": "NA",
+            "startDate": "2022-01-25 11:23:31.119",
+            "value": "N"
+          }
+        ]
+      },
+      {
+        "phoneNumber": "434-232-2323",
+        "sourceSystem": "CSS",
+        "isPreferredInd": "N",
+        "startDate": "2022-01-14 19:12:08.014",
+        "type": "Cellular",
+        "preferences": [
+          {
+            "sourceSystem": "CSS",
+            "name": "PEWC",
+            "reason": "NA",
+            "startDate": "2022-01-25 11:23:31.119",
+            "value": "ND"
+          }
+        ]
+      }
+    ],
+    "email": [
+      {
+        "emailId": "ma11_fullpay2_ivan@yopmail.com",
+        "sourceSystem": "CSS",
+        "isPreferredInd": "Y",
+        "startDate": "2022-01-25 11:23:31.119",
+        "type": "Personal Email"
+      }
+    ]
+  }
+}
