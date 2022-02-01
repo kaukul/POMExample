@@ -1,10 +1,12 @@
 model/ProductMapper.java
  model.ProductMapper
-model/Product.java
- model.Product
 rawSelenium.java
  rawSelenium
+ApiTest.java
+ ApiTest
 model/pom/pages/BasePage.java
  model.pom.pages.BasePage
+model/Product.java
+ model.Product
 model/pom/pages/ProductPage.java
  model.pom.pages.ProductPage
